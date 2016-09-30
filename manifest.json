@@ -1,0 +1,17 @@
+{
+  "name": "GitHubのPRでLGTMだったら花火が上がる君",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "GitHubのPRでLGTMだったら花火が上がる君です",
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*/*/pull/*"],
+      "js": [
+        "jquery.min.js",
+        "main.js"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "web_accessible_resources": ["particles.gif", "fireworks.css"]
+}
