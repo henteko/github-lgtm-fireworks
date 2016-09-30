@@ -1,5 +1,7 @@
 # GitHubのPRでLGTMだったら花火が上がる君
 
+[![demo video](https://img.youtube.com/vi/X4pNlIEiSy0/0.jpg)](https://www.youtube.com/watch?v=X4pNlIEiSy0)
+
 GitHubのPRでLGTMだったら花火が上がる君です
 
 GitHubのPRでLGTMだったら花火が上がります
